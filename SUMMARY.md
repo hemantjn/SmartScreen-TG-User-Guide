@@ -5,24 +5,24 @@
 
 ## Overview
  
- * #### [Introduction](README.md)
- * #### [SmartScreen At A Glance](preface.md)
+ * #### [Introduction](/README.md)
+ * #### [SmartScreen At A Glance](/preface.md)
  
 
 
 
 ## User
  
- * #### [SmartScreenBot](ssbot.md)
+ * #### [SmartScreenBot](/ssbot.md)
  
  
  
  
 ## Commands
  
- * #### [/pin](pin.md)
- * #### [/status](status.md)
- * #### [/drop](drop.md)
+ * #### [/pin](/pin.md)
+ * #### [/status](/status.md)
+ * #### [/drop](/drop.md)
  * #### [/youtube](yutub.md)
  * #### [/rc](rc.md)
  * #### [/jj](jj.md)
