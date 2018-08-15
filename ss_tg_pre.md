@@ -4,9 +4,9 @@
 
 ### SmartScreen is a Cloud App meant for the following:-
 
-#### **Partition & push content onto 4 frames on your browser screen - 4 PIPs**
+#### Partition & push content onto 4 frames on your browser screen - 4 PIPs
 
-#### **Content that can be pushed manually**
+#### Content that can be pushed manually
 
  * **URL**: e-Commerce, Wikis, Videos, Images, Audios
  * **Slideshows**: Auto-scrolling show of _Videos, Images, Presentations_...with _user-defined duration per member element_
@@ -16,4 +16,4 @@
  * **Action Status**: Animated _Info, Warning, Error, Fatal_ or _Success_ blocks with _custom message_ within 
  
  
- #### **Scheduled, custom content that gets pushed automatically based on fractal analytics**
+ #### Scheduled, custom content that gets pushed automatically based on fractal analytics
