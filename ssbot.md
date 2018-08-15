@@ -1,5 +1,5 @@
 # SmartScreenBot
 
-* ### Add _'SmartScreenBot'_ user to your Telegram friends list
+* ### Add _'SmartScreen' bot_ user to your _Telegram_ friends list
 
 ![](/assets/smartbot.png)
