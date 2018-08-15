@@ -2,4 +2,4 @@
 
 * ### Add _'SmartScreenBot'_ user to your Telegram friends list
 
-![](/assets/smartbot.jpg)
+![](/assets/smartbot.png)
