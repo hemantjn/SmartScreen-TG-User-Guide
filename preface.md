@@ -15,4 +15,4 @@
  * **Action Status**: Animated _Info, Warning, Error, Fatal_ or _Success_ blocks with _custom message_ within 
  
  
- #### Scheduled, custom content that gets pushed automatically based on fractal analytics
+ #### _Scheduled, custom content_ pushed _automatically_ based on _deep learning_
