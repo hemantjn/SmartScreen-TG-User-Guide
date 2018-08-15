@@ -6,14 +6,14 @@
 ## Overview
  
  * #### [Introduction](/README.md)
- * #### [SmartScreen At A Glance](/preface.md)
+ * #### [SmartScreen At A Glance](/overview/preface.md)
  
 
 
 
 ## User
  
- * #### [SmartScreenBot](/ssbot.md)
+ * #### [SmartScreenBot](/user/ssbot.md)
  
  
  
