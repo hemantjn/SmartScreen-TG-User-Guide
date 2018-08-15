@@ -1,1 +1,5 @@
-SmartScreen User Guide
+# SmartScreen User Guide
+
+---
+
+![](/assets/ss_hi.png)
