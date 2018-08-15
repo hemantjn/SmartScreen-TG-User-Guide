@@ -3,7 +3,7 @@
 
 ### SmartScreen is a Cloud App meant for the following:-
 
-#### Partition & push content onto 4 frames on your browser screen - 4 PIPs
+#### Push _content_ on your _Smart Screen_ (http://smartscreen.tv)
 
 #### Content that can be pushed manually
 
