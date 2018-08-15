@@ -3,7 +3,7 @@
 
 ### SmartScreen is a Cloud App meant for the following:-
 
-#### Push _content_ on your _'SmartScreen'_ (http://smartscreen.tv) using _Telegram_
+#### Push _content_ on your _'SmartScreen'_ (http://smartscreen.tv) using _'Telegram'_ Chat Messenger
 
 #### Content that can be pushed manually
 
