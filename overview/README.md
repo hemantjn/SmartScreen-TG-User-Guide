@@ -1,3 +1,3 @@
 # SmartScreen User Guide
 
-![](/assets/ss_hi.png)
+![](../assets/ss_hi.png)
