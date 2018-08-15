@@ -16,13 +16,13 @@
  
 ## Commands
  
- * #### [/pin](/pin.md)
- * #### [/status](/status.md)
- * #### [/drop](/drop.md)
- * #### [/youtube](yutub.md)
- * #### [/rc](rc.md)
- * #### [/jj](jj.md)
- * #### [/view](view.md)
- * #### [/post](post.md)
- * #### [/flow](flow.md)
- * #### [/bot](bot.md)
+ * #### [/pin](/commands/pin.md)
+ * #### [/status](/commands/status.md)
+ * #### [/drop](/commands/drop.md)
+ * #### [/youtube](/commands/yutub.md)
+ * #### [/rc](/commands/rc.md)
+ * #### [/jj](/commands/jj.md)
+ * #### [/view](/commands/view.md)
+ * #### [/post](/commands/post.md)
+ * #### [/flow](/commands/flow.md)
+ * #### [/bot](/commands/bot.md)
