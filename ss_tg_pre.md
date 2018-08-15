@@ -1,6 +1,5 @@
 # Understanding SmartScreen
 
----
 
 ### SmartScreen is a Cloud App meant for the following:-
 
