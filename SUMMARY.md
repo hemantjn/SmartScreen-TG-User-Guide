@@ -1,5 +1,6 @@
 # Table Of Contents
 
+ * ### SmartScreenBot
  * ### /pin
  * ### /status
  * ### /drop
