@@ -18,4 +18,4 @@
 ### Corresponding _video_ played out vide _jujue_ streaming service on the target _SmartScreen_
 
 
-![](assets/jj_play.png)
+![](assets/jj_beiber_con.png)
