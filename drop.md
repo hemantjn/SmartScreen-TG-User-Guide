@@ -3,7 +3,7 @@
 #### Push a _URL_ to the _SmartScreen_
 
 
-![Alt](assets/drop.png#left)
+<img src="assets/drop.png" align="left">
 
 
 
