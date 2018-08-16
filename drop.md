@@ -10,10 +10,10 @@
 #### _URL_ pushed
 
 
-![Alt](assets/dropped.png#left)
+<img src="assets/dropped.png" align="left">
 
 
 
 #### The URL shows up on the _SmartScreen_
 
-![Alt](assets/drop_ss.png#center)
+![](assets/drop_ss.png)
