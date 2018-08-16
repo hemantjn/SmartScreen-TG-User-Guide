@@ -11,22 +11,3 @@
 
 
 
-## User
- 
- * #### [SmartScreenBot](user/ssbot.md)
- 
- 
- 
- 
-## Commands
- 
- * #### [/pin](commands/pin.md)
- * #### [/status](commands/status.md)
- * #### [/drop](commands/drop.md)
- * #### [/youtube](commands/yutub.md)
- * #### [/rc](commands/rc.md)
- * #### [/jj](commands/jj.md)
- * #### [/view](commands/view.md)
- * #### [/post](commands/post.md)
- * #### [/flow](commands/flow.md)
- * #### [/bot](commands/bot.md)
