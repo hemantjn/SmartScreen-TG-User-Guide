@@ -15,7 +15,7 @@
 
 
 
-## Corresponding _video_ played out vide _youtube_ on the _SmartScreen_
+## Corresponding _video_ played out vide _youtube_ on the target _SmartScreen_
 
 
 ![](assets/yt_modi.png)
