@@ -4,6 +4,8 @@ description: Understanding SmartScreen
 
 # SmartScreen At A Glance
 
+![](../.gitbook/assets/ss1.png)
+
 ### '_SmartScreen'_ is an 'EI' _Cloud App_ meant for:
 
 * **Push** _**content**_ **on your** _**'SmartScreen'**_ **\(**[**http://smartscreen.tv**](http://smartscreen.tv)**\) using** _**'Telegram'**_ **Chat Messenger** 
@@ -15,4 +17,6 @@ description: Understanding SmartScreen
     * **Flash**: Text Notification
     * **Action Status**: Animated _Info, Warning, Error, Fatal_ or _Success_ blocks with _custom message_ within  
 * _**Scheduled, custom content**_ **pushed** _**automatically**_ **based on** _**deep learning**_
+
+_\*\*\*\*_
 
