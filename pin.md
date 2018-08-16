@@ -4,6 +4,6 @@
 #### Pair your _target device_
 
 
- * target_device: _hemant_
+ * targetdevice: _hemant_
 
 ![](assets/pin_hemant.png)
