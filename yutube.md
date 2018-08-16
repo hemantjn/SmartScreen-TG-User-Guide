@@ -15,7 +15,7 @@
 
 
 
-## Corresponding _video_ played vide _youtube_ on the target _SmartScreen_
+## Corresponding _video_ played vide _youtube_ service on the target _SmartScreen_
 
 
 ![](assets/youtube_modi_con.png)
