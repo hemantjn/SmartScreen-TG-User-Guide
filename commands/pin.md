@@ -1,5 +1,0 @@
-# /pin
-
-* ###Telegram Input
-
-![](/assets/
