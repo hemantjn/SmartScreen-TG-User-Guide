@@ -1,17 +1,17 @@
 # /jj
 
 
-### Use _jujue_ to search & play a video on the searched _keyword_
+### Use _jujue_ to search & play a video on the _keyword_ input
 
 
-<img src="assets/jj.png" align="left">
+![](assets/jj.png)
 
 
 
-### Provided the search keyword
+### Provided the _search_keyword_
 
 
-<img src="assets/jj_key.png" align="left">
+![](assets/jj_key.png)
 
 
 
