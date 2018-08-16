@@ -1,11 +1,11 @@
 # Understanding SmartScreen
 
 
-#### _SmartScreen_ is a Cloud App meant for the following:-
+##### _SmartScreen_ is a Cloud App meant for the following:-
 
-##### Push _content_ on your _'SmartScreen'_ (http://smartscreen.tv) using _'Telegram'_ Chat Messenger
+###### Push _content_ on your _'SmartScreen'_ (http://smartscreen.tv) using _'Telegram'_ Chat Messenger
 
-##### Content that can be pushed manually
+###### Content that can be pushed manually
 
  * **URL**: e-Commerce, Wikis, Videos, Images, Audios
  * **Slideshows**: _Auto-scrolling_ slideshow of _Videos, Images, Presentations_...with _user-defined duration per member element_
@@ -15,4 +15,4 @@
  * **Action Status**: Animated _Info, Warning, Error, Fatal_ or _Success_ blocks with _custom message_ within 
  
  
- ##### _Scheduled, custom content_ pushed _automatically_ based on _deep learning_
+ ###### _Scheduled, custom content_ pushed _automatically_ based on _deep learning_
