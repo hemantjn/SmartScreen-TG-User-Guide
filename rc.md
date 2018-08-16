@@ -1,6 +1,6 @@
 # /rc
 
-### Play and _control_ a _slideshow_ using the _on-screen remote control_ on the _Smart Screen_
+### _Control_ a _slideshow_ using the _on-screen remote control_ on the _Smart Screen_
 
 
 
@@ -29,6 +29,13 @@
 
 
 ![](assets/rc_l.png)
+
+
+
+#### _Clear_ the Video, Image or Track being played
+
+
+![](assets/rc_c.png)
 
 
 
