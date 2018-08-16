@@ -1,12 +1,19 @@
 # /drop
 
-###### Push a _URL_ to _SmartScreen_
+#### Push a _URL_ to the _SmartScreen_
+
 
 ![Alt](assets/drop.png#left)
+
+
+
+#### _URL_ pushed
+
 
 ![Alt](assets/dropped.png#left)
 
 
-###### The URL shows up on the _SmartScreen_
+
+#### The URL shows up on the _SmartScreen_
 
 ![Alt](assets/drop_ss.png#center)
