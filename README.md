@@ -1,3 +1,7 @@
+---
+description: SmartScreen TG User Guide
+---
+
 # Introduction
 
 ![](.gitbook/assets/ss_hi.png)

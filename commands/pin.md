@@ -1,8 +1,12 @@
+---
+description: Pairing with the target device
+---
+
 # /pin
 
-## Pair your _target device_
+Pair your _**Edge Device** \(SmartScreen target\_device 'name'\)_
 
-* targetdevice: _hemant_
+* target\_device name: _hemant_
 
 ![](../.gitbook/assets/pin_hemant.png)
 

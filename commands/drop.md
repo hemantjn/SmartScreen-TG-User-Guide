@@ -1,6 +1,11 @@
+---
+description: Push a URL to the SmartScreen
+---
+
 # /drop
 
-## Push a _URL_ to the _SmartScreen_
+Push a **URL** to the _SmartScreen \(App, Site, Video, Image or Audio\)_  
+
 
 ![](../.gitbook/assets/drop.png)
 

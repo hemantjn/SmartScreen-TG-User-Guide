@@ -1,24 +1,28 @@
+---
+description: On-screen RC for slideshow/ playlist control
+---
+
 # /rc
 
-## _Control_ a _slideshow_ on the _Smart Screen_ using the _on-screen remote control_ on Telegram
+Play out a number of _videos_ \(say\) one after the other and **control** these as a '_slideshow'_ on the _Smart Screen_ using the **on-screen remote\_control** _****_on Telegram
 
-### _Previous_ Video, Image or a Track
+Go to the _Previous_ Video, Image or a Track
 
 ![](../.gitbook/assets/rc_p.png)
 
-### _Next_ Video, Image or a Track
+Go to the _Next_ Video, Image or a Track
 
 ![](../.gitbook/assets/rc_n.png)
 
-### _First_ Video, Image or a Track
+Go to the _First_ Video, Image or a Track
 
 ![](../.gitbook/assets/rc_f.png)
 
-### _Last_ Video, Image or a Track
+Go to the _Last_ Video, Image or a Track
 
 ![](../.gitbook/assets/rc_l.png)
 
-### _Clear_ the Video, Image or Track being played
+_Clear_ the Video, Image or Track being played
 
 ![](../.gitbook/assets/rc_c.png)
 

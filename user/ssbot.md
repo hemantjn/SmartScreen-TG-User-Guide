@@ -1,6 +1,10 @@
+---
+description: SmartScreen BOT on TG
+---
+
 # SmartScreenBot
 
-## Add _'SmartScreen' bot_ user to your _Telegram's_ 'friends' list
+Add **SmartScreen** _bot_ user to your **Telegram** _'friends'_ list
 
 ![](../.gitbook/assets/smartbot.png)
 
