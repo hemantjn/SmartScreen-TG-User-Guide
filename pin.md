@@ -1,7 +1,7 @@
 
 # /pin
 
-#### Pair your target device
- * _targetdevice_: _hemant_
+#### Pair your _target device_
+ * targetdevice: _hemant_
 
 ![](assets/pin_hemant.png)
