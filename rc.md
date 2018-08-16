@@ -1,6 +1,6 @@
 # /rc
 
-### _Control_ a _slideshow_ using the _on-screen remote control_ on the _Smart Screen_
+### _Control_ a _slideshow_ on the _Smart Screen_ using the _on-screen remote control_ on Telegram
 
 
 
