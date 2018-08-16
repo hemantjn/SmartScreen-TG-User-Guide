@@ -17,7 +17,7 @@
  * [/pin](pin.md)
  * [/status](status.md)
  * [/drop](drop.md)
- * [/youtube](yutub.md)
+ * [/youtube](yutube.md)
  * [/rc](rc.md)
  * [/jj](jj.md)
  * [/view](view.md)
