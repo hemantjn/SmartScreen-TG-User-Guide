@@ -9,7 +9,7 @@ Push a **URL** to the _SmartScreen \(App, Site, Video, Image or Audio\)_
 
 ![](../.gitbook/assets/drop.png)
 
-## _URL_ pushed
+**URL** pushed
 
 ![](../.gitbook/assets/dropped.png)
 
