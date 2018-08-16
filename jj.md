@@ -1,7 +1,7 @@
 # /jj
 
 
-### Use _jujue_ to search & play a video on the _keyword_ input
+### Play a video on _jujue_
 
 
 ![](assets/jj.png)
@@ -15,7 +15,7 @@
 
 
 
-### Corresponding _video_ played out vide _jujue_ streaming service on the target _SmartScreen_
+### Corresponding _video_ played vide _jujue_ streaming service on the target _SmartScreen_
 
 
 ![](assets/jj_beiber_con.png)
