@@ -18,4 +18,4 @@
 ### Corresponding video played on _jujue_
 
 
-<img src="assets/jj_play.png" align="center">
+
