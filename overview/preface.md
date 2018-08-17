@@ -16,7 +16,7 @@ description: Understanding SmartScreen
     * **Text**: Animated, Scrolling \(& a whole lot of user-defined attributes\) 
     * **Flash**: Text Notification
     * **Action Status**: Animated _Info, Warning, Error, Fatal_ or _Success_ blocks with _custom message_ within  
-* _**Scheduled, custom content**_ **pushed** _**automatically**_ **based on** _**deep learning**_
+* _**Scheduled, custom content**_ **pushed** _**automatically**_ **based on FlowBot by Node-Red**
 
 _\*\*\*\*_
 
