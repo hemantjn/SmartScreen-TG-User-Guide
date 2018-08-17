@@ -8,7 +8,7 @@ description: Understanding SmartScreen
 
 ### '_SmartScreen'_ is an 'EI' _Cloud App_ meant for:
 
-* **Push** _**content**_ **on your** _**'SmartScreen'**_ **\(**[**http://smartscreen.tv**](http://smartscreen.tv)**\) using** _**'Telegram'**_ **Chat Messenger** 
+* **Push** _**content**_ **on your** _**'SmartScreen'**_ **\(**[**http://smartscreen.tv**](http://smartscreen.tv)**\) using** _**'Telegram'**_ **ChatBot** 
   * **Content that can be pushed manually**
     * **URL**: e-Commerce, Wikis, Videos, Images, Audios
     * **Slideshows**: _Auto-scrolling_ slideshow of _Videos, Images, Presentations_...with _user-defined duration per member element_
