@@ -4,14 +4,15 @@ description: Push a video to the SmartScreen
 
 # /youtube
 
-#### 
+Push a **video** to be played on _SmartScreen_
 
-![](../.gitbook/assets/yt.png)
+![](../.gitbook/assets/yt1_t.png)
 
-  
-Provide the _keyword_ for searching the _video_ to be played upon
 
-![](../.gitbook/assets/yt_modi.png)
+
+Provide the _keyword_ for the _video_ to be played upon
+
+![](../.gitbook/assets/ytm_t.png)
 
   
 Corresponding _video_ is played out on the _SmartScreen_
