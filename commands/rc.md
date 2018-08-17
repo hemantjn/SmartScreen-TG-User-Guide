@@ -16,7 +16,7 @@ Go to the _Next_ Video, Image or a Track
 
 Go to the _First_ Video, Image or a Track
 
-![](../.gitbook/assets/rc_f.png)
+![](../.gitbook/assets/rc_f%20%281%29.png)
 
 Go to the _Last_ Video, Image or a Track
 
