@@ -1,3 +1,7 @@
+---
+description: Getting to know SmartScreen
+---
+
 # SmartScreen At A Glance
 
 ![](../.gitbook/assets/ss_t.png)
