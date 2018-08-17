@@ -8,8 +8,6 @@
 
 ## User
 
-* [SmartScreenBot](user/ssbot.md)
-
 ## Commands
 
 * [/pin](commands/pin.md)
