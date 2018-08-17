@@ -8,8 +8,6 @@ description: Stream live IP CAM feed
 
 ![](../.gitbook/assets/v_t.png)
 
-
-
 The _CAM feed_ is streamed to the _SmartScreen_ in real-time
 
 ![](../.gitbook/assets/v_ss_t.png)
