@@ -1,7 +1,3 @@
----
-description: On-screen RC for slideshow/ playlist control
----
-
 # /rc
 
 Play out a number of _videos_ \(say\) one after the other and **control** these as a **'slideshow'** on the _Smart Screen_ using the **on-screen remote\_control** _****_on Telegram

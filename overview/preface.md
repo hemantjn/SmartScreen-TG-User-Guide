@@ -1,12 +1,8 @@
----
-description: Understanding SmartScreen
----
-
 # SmartScreen At A Glance
 
 ![](../.gitbook/assets/ss_t.png)
 
-**'**_**SmartScreen'**_ ****is an _'EI' Cloud App_ meant for
+**SmartScreen** is an **'EI'** Cloud App meant for
 
 * Displaying _**content**_ ****pushed through various modes - **Flows, Chats, Voice Inputs, App Triggers...**  
 

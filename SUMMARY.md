@@ -6,8 +6,6 @@
 
 * [SmartScreen At A Glance](overview/preface.md)
 
-## User
-
 ## Commands
 
 * [/pin](commands/pin.md)
