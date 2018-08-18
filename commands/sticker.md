@@ -1,5 +1,5 @@
 ---
-description: Push Stickers
+description: Push stickers
 ---
 
 # /sticker
