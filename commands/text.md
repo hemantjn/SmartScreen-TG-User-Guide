@@ -12,9 +12,11 @@ Push _center-aligned_ **animated text** of _blue_ color over _white_ background 
 
 
 
-_Animated text_ seen displayed on the _2nd frame_ of the _SmartScreen_
+_Animated text_ seen appearing on the _2nd frame_ of the _SmartScreen target\_device_
 
 ![](../.gitbook/assets/ss_text1.png)
+
+
 
 ![](../.gitbook/assets/ss_text2.png)
 
