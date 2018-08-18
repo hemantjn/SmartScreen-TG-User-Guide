@@ -1,5 +1,7 @@
 ---
-description: Push animated text with a whole lot of user-defined attributes
+description: >-
+  Push animated text with a whole lot of user-defined attributes on to the frame
+  of your choice
 ---
 
 # /text
