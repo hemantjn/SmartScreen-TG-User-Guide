@@ -1,7 +1,3 @@
----
-description: Push stickers
----
-
 # /sticker
 
 Select **Sticker** 

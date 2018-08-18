@@ -1,7 +1,3 @@
----
-description: Check target_device pairing status
----
-
 # /status
 
 Check the _target\_device_ **pairing status**

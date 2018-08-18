@@ -1,7 +1,3 @@
----
-description: Pair with the target_device
----
-
 # /pin
 
 Pair your _SmartScreen target\_device by 'name'_

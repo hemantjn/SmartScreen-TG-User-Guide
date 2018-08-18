@@ -1,7 +1,3 @@
----
-description: Push URL
----
-
 # /drop
 
 Push a **URL** to the _SmartScreen \(App, Site, Video, Image or Audio\)_

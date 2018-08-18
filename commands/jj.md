@@ -1,7 +1,3 @@
----
-description: Push a video using jujue streaming service
----
-
 # /jj
 
 Play a _video_ on the _SmartScreen_ using _jujue_ _\*\*_streaming service

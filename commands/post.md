@@ -1,7 +1,3 @@
----
-description: Push text/ notification
----
-
 # /post
 
 Push **Text/ Notification** to be displayed on _top_ of other _elements_ being played out on _SmartScreen_
