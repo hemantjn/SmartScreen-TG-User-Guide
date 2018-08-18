@@ -17,4 +17,5 @@
 * [/view](commands/view.md)
 * [/post](commands/post.md)
 * [/sticker](commands/sticker.md)
+* [/toast](commands/toast.md)
 
