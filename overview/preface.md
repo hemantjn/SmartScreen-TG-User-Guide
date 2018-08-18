@@ -19,5 +19,5 @@
 * **Custom content** pushed _automatically_ based on _deep learning_ at **different times** of the day, say, targeting a 'hugely' varied customer profile, walking into a _Mall/ Hyper Market/ Mega Store/ Super Store_ at different times of the day, including, say, their _facial expressions_ when exposed to different merchandise displayed on the _screens/ billboards/ banners_ in the store 
 * **SmartScreen** provides for _division_ of the screen _display area_ into **4 frames**  of _equal sizes_, besides the _entire screen_ as a 5th option, implying that _different content_ can be pushed to the _different frames_ or/and something has to be played out on the entire screen - i.e. to say, one has the options of _t1, t2, t3, t4 & main_ display areas to target! 
 
-
+![](../.gitbook/assets/4_in_1_marq.png)
 

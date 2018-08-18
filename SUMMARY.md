@@ -18,4 +18,6 @@
 * [/post](commands/post.md)
 * [/sticker](commands/sticker.md)
 * [/toast](commands/toast.md)
+* [/marquee](commands/marquee.md)
+* [/text](commands/text.md)
 
