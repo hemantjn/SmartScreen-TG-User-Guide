@@ -1,3 +1,7 @@
+---
+description: On-screen remote control for navigating through a slideshow or a playlist
+---
+
 # /rc
 
 Play out a number of _videos_ \(say\) one after the other and **control** these as a **'slideshow'** on the _Smart Screen_ using the **on-screen remote\_control** \__\*\*_\_on Telegram

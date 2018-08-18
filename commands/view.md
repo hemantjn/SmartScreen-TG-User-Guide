@@ -1,5 +1,5 @@
 ---
-description: Stream live IP CAM feed
+description: Push live IP CAM feed
 ---
 
 # /view

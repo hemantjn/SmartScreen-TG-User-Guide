@@ -1,3 +1,7 @@
+---
+description: Push a video
+---
+
 # /youtube
 
 Push a **video** to be played on _SmartScreen_
