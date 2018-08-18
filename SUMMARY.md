@@ -16,6 +16,5 @@
 * [/jj](commands/jj.md)
 * [/view](commands/view.md)
 * [/post](commands/post.md)
-* [/flow](commands/flow.md)
-* [/bot](commands/bot.md)
+* [/sticker](commands/sticker.md)
 
